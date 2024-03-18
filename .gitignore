@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+data/*
+kaggle_data/
+youtube_database/*
+model-epoch0.pt
+model-epoch3.pt

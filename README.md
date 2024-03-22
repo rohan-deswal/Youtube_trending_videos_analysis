@@ -31,7 +31,6 @@
 ## 🔗 Quick Links
 
 > - [📍 Overview](#overview)
-> - [📦 Features](#features)
 > - [📂 Repository Structure](#repository-structure)
 > - [🧩 Modules](#modules)
 > - [🤖 Analysis](#analysis)
@@ -48,12 +47,6 @@ This project delves into the comprehensive analysis of YouTube trending videos s
 The analysis focuses on understanding viewer behavior during the COVID-19 pandemic, identifying prevalent video categories, and recognizing frequently appearing channels on the YouTube trending tab. Additionally, we employ  `BERT (Bidirectional Encoder Representations from Transformers)` to train a model that predicts video categories based on title content.
 
 This project offers valuable insights into YouTube viewership trends and content categorization strategies.
-
----
-
-## 📦 Features
-
-<code>► INSERT-TEXT-HERE</code>
 
 ---
 
